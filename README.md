@@ -8,5 +8,5 @@
 
 day1（2026.5.22）  
 https://github.com/Pwb-2026/2026.5.22-Day0/blob/efec7fcfe7a3a993c7eedba2e2c261ecab0d0dd2/Day1  
-day2（2026.5.23）
+day2（2026.5.23）  
 https://github.com/Pwb-2026/2026.5.22-Day0/blob/5b539ca63c2aa264eb7929654df5a64c780b556c/day2
